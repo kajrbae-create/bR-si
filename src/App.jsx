@@ -20,7 +20,7 @@ import OrderOtp from "./Pages/OrderOtp";
 import RedirectMotslToPhone from "./components/RedirectMotslToPhone";
 
 // export const api_route = "http://localhost:8080";
-export const api_route = "https://becare2-se.onrender.com";
+export const api_route = "https://karam-se.onrender.com";
 export const socket = io(api_route);
 
 export function getKeysWithTrueValue(obj) {
